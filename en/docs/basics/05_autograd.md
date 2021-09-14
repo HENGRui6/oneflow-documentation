@@ -201,7 +201,7 @@ tensor([[3., 3.]], dtype=oneflow.float32)
 
 Please refer to the "Extended Reading" section below for the analysis of the cause and solution of the error.
 
-## Extended Reading
+## Further Reading
 
 There are two elements $x_1$ and $x_2$ in Tensor `x`, and two elements $y_1$ and $y_2$ in Tensor `y`. The relationship between them is:
 
